@@ -1,4 +1,7 @@
-# noteT_exe
+## Description
+```
+The Expresss JS Note Taker is a simple, lightweight, and fast web application that allows users to write, save and delete notes on their own.
+```
 
 ## User Story
 
@@ -26,3 +29,15 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
 
+## Screenshots
+
+![Local](/public/assets/images/localNote.png)
+![Heroku](/public/assets/images/herokuNote.png)
+
+## Git Repo
+
+https://github.com/Leonn24/noteT_exe
+
+## Deployed Link
+
+https://morning-hamlet-19965-f881f5ef2d60.herokuapp.com
