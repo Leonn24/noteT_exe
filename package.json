@@ -1,5 +1,5 @@
 {
-    "name": "notet_exe",
+    "name": "note-taker",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
